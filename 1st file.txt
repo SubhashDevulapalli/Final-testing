@@ -28,3 +28,7 @@ Editing branch again
 D
 E
 F
+
+Editing main with special char
+@
+#
