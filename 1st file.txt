@@ -29,6 +29,7 @@ D
 E
 F
 
+
 Creating new branch
 
 G
@@ -39,3 +40,10 @@ Editing branch2 again
 
 J
 K
+
+Editing branch1 with numbers
+
+13
+14
+15
+
