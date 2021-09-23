@@ -47,6 +47,11 @@ Editing branch1 with numbers
 14
 15
 
+editing brach 2 
+1a
+2b
+3c
+
 Creating a branch to the barnch 1
 
 A
