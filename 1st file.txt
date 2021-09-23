@@ -28,3 +28,9 @@ Editing branch again
 D
 E
 F
+
+Creating new branch
+
+G
+H
+I
